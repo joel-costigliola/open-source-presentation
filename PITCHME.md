@@ -11,16 +11,13 @@
 - Challenges |
 - Feedback |
 
-
 ---
 
-## What is AssertJ ?
+## What is AssertJ?
 
-Quick overview of AssertJ:
-
-- java fluent assertions library |
-- provide assertions for 50+ types: String, List, ... | 
-- discover assertions with IDE code completion |
+- java fluent assertions library
+- provide assertions for 50+ types: String, List, ... 
+- discover assertions with IDE code completion
 
 ```java
 List<Ring> elvesRings = asList(vilya, nenya, narya);
