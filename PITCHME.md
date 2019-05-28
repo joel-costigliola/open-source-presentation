@@ -178,7 +178,7 @@ to end with:
 
 * I see leading a community as a social experiment
 * Always be nice
-* Be as helpful as possible (github, Sactk Overflow)
+* Be as helpful as possible (github, Stack Overflow)
 * Give credit to contributors
 * Acknowledge when you are wrong
 
@@ -192,6 +192,7 @@ to end with:
 * Time consuming
     * code review (sometime it is faster to code it than to review it)
     * documentation
+* Unclear issues
 
 ---
 
@@ -210,7 +211,6 @@ to end with:
  
 * You can't please everybody (but you should try)
 * Spend your time of valuable issues/PR
-* API design is hard (try the API as a user)
+* API design is hard (hint: try the API as a user)
 * PRs are not a great code review technique
-* Specific git flow
 * Be open with users when you can't do the work
