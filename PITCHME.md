@@ -34,7 +34,7 @@
 - Works for array and Stream too
 
 ```java
-Iterable<Ring> elvesRings = asList(vilya, nenya, narya);
+Iterable<Ring> elvesRings = list(vilya, nenya, narya);
                                                                     
 assertThat(elvesRings)                                              
     .hasSize(3)                                                 
