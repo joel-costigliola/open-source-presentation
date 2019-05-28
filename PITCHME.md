@@ -159,34 +159,44 @@ to end with:
 
 ---
 
-## AssertJ philosophy 
+## AssertJ philosophy
 
 * Social experiment on how to lead a community
-* AssertJ is community driven 
+* AssertJ is community driven
     * Open to suggestion
-    * ask for feedback
-    * lower the barrier for contribution
-* documentation is important
+    * Ask for feedback
+    * Lower the barrier for contribution
+* Documentation is important
 
 ---
 
 ## Community 
 
-* Always be nice
+* Always be nice (Code of conduct)
 * Be as helpful as possible (github, SO)
+* Give credit to contributors
 
 ---
 
 ## Challenges 
 
+* being responsive
+    * acknowledge issues and PR creation
+    * often lagging on PR review
 * time consuming 
-    * PR review
+    * PR review (sometime it is faster to code it than review it)
     * documentation
 * some people just want their problem solved ASAP
+    * be firm and nice (even if you are annoyed)
+* publicize it
+* assertj.org !
 
 ---
 
 ## Learnings 
  
-* git flow
-* Some PR are difficult to review
+* You can't please everybody (but you should try)
+* Spend your time of valuable issues/PR 
+    * it's ok to leave minor improvements/bugs behind
+* Some PR are difficult to review (too big)
+* Specific git flow
