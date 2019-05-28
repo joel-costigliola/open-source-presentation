@@ -41,7 +41,7 @@ assertThat(elvesRings)
     .hasSize(3)                                                 
     .contains(nenya, narya)                                            
     .doesNotContain(oneRing)                                    
-    // need all the lement in the right order
+    // need all the elements in the right order
     .containsExactly(vilya, nenya, narya);                      
 ```
 
@@ -104,9 +104,6 @@ assertThat(thrown)
 - Easy soft assertions with JUnitSoftAssertions rule 
 - BDD flavor with JUnitBDDSoftAssertions 
 
-
-#### Soft assertions example
-
 ```java
 @Rule
 public JUnitSoftAssertions softly = new JUnitSoftAssertions();
@@ -122,7 +119,7 @@ public void junit_soft_assertions_example() {
 }
 ```
 
-#### Assertions errors report
+---
 
 ```
 The following 3 assertions failed:
