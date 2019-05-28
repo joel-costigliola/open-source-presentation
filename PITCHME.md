@@ -1,5 +1,4 @@
-## Random thoughts as AssertJ open source project lead
-
+## Random thoughts as an open source project lead
 
 ---
 
@@ -196,6 +195,7 @@ to end with:
     * documentation
 
 ---
+
 ## Challenges 2/2
 
 * Some users just want their problem solved ASAP
