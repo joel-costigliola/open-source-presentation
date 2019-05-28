@@ -121,6 +121,8 @@ public void junit_soft_assertions_example() {
 
 ---
 
+Soft assertions errors report:
+
 ```
 The following 3 assertions failed:
 1) 
