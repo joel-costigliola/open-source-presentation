@@ -22,7 +22,7 @@
 
 ### Who uses it ?
 
-- Orion Health! 
+- Orion Health!
 - [The JUnit team](https://twitter.com/marcphilipp/status/1108482731661553664)
 - [Spring](https://twitter.com/sam_brannen/status/1131825078256230400)
 - Mentioned in [thoughtworks tech radar](https://www.thoughtworks.com/radar/languages-and-frameworks/assertj)
@@ -31,7 +31,7 @@
 
 ### Collection assertions
 
-- Works for array and Stream too
+- Works for array and stream too
 
 ```java
 Iterable<Ring> elvesRings = list(vilya, nenya, narya);
