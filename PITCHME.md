@@ -6,9 +6,10 @@
 ## Agenda
 
 - A quick presentation of AssertJ 
-- Community 
-- Challenges 
-- Feedback 
+- Project philosophy
+- Community
+- Challenges
+- Learnings
 
 ---
 
