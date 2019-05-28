@@ -73,9 +73,9 @@ assertThat(fellowshipOfTheRing)
     .containsOnly(sam, frodo, pippin, merry);
 
 assertThat(fellowshipOfTheRing)                     
-    .filteredOn(tc -> tc.getRace().equals(HOBBIT))   
-    .extracting(tc -> tc.getName())                  
-    .containsOnly("Sam", "Frodo", "Pippin", "Merry");    
+    .filteredOn(tc -> tc.getRace().equals(HOBBIT))
+    .extracting(tc -> tc.getName())
+    .containsOnly("Sam", "Frodo", "Pippin", "Merry");
 ```
 
 ---
@@ -86,7 +86,7 @@ My favorite way: *catchThrowable*
 
 ```java
 // GIVEN
-ThrowingCallable codeCall = () -> boom();
+ThrowingCallable codeCall = () -> boom("boom!");
 // WHEN
 final Throwable thrown = catchThrowable(codeCall);
 // THEN
@@ -117,8 +117,7 @@ public void junit_soft_assertions_example() {
             .startsWith("Mike")
             .contains("Lakers")
             .endsWith("Chicago");
-
-  // no need to call assertAll() ! :)
+  // no need to call softly.assertAll() ! :)
 }
 ```
 
@@ -143,18 +142,15 @@ to end with:
  <"Chicago">
 ```
 
-@[1](number of failures)
-@[1-16](numbered list of errors)
-
 ---
 
 ### Other features we won't cover
 
-- Conditions 
+- Conditions
 - Assumptions
 - AssertJ modules
 - Using comparators
-- Using recursive field by field comparison
+- Recursive field by field comparison
 - Custom/domain assertions
 
 ---
@@ -169,11 +165,10 @@ to end with:
 
 * AssertJ is community driven
     * Open to suggestion
-    * Ask for feedback
-    * Lower the barrier for contribution
-* Documentation is important (help people)
-    * javadoc
-    * website
+    * Ask for community feedback
+    * Lower the barrier for contributors
+* Documentation is important to help people (javadoc, website)
+
 ---
 
 ## Community 
@@ -195,8 +190,8 @@ to end with:
     * documentation
 * some people just want their problem solved ASAP
     * be firm and nice (even if you are annoyed)
-* publicize it
-* assertj.org !
+* publicize your project
+* assertj.org :(
 
 ---
 
