@@ -169,11 +169,13 @@ to end with:
     * Open to suggestion
     * Ask for community feedback
     * Lower the barrier for contributors
-* Documentation is important to help people (javadoc, website)
+    * Don't pressure contributors
+* Documentation is important to help people
+    * javadoc, website, assertj-examples
 
 ---
 
-## Community 
+## Community
 
 * For me leading a community was a social experiment
 * Always be nice (Code of conduct ?)
@@ -182,7 +184,7 @@ to end with:
 
 ---
 
-## Challenges 
+## Challenges 1/2
 
 * being responsive
     * acknowledge issues and PR creation
@@ -190,6 +192,10 @@ to end with:
 * time consuming 
     * PR review (sometime it is faster to code it than review it)
     * documentation
+
+---
+## Challenges 2/2
+
 * some people just want their problem solved ASAP
     * be firm and nice (even if you are annoyed)
 * publicize your project
