@@ -1,4 +1,4 @@
-## Random thoughts as an open source project lead
+## Random thoughts of an open source project lead
 
 ---
 
