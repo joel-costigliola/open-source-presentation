@@ -161,6 +161,8 @@ to end with:
 * It feels good to help people
 * I was frustrated with hamcrest
 
+---
+
 ## philosophy
 
 * AssertJ is community driven
