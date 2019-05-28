@@ -190,28 +190,28 @@ to end with:
 
 * Being responsive
     * acknowledge issues and PR creation
-    * often lagging on PR review
-* Time consuming 
-    * PR review (sometime it is faster to code it than review it)
+    * often lagging on code reviews
+* Time consuming
+    * code review (sometime it is faster to code it than to review it)
     * documentation
-    * it's ok to take a break from the project
 
 ---
 ## Challenges 2/2
 
-* some people just want their problem solved ASAP
+* Some users just want their problem solved ASAP
     * be firm and nice (even if you are really annoyed)
-* publicize your project (just twitter at the moment)
+* Publicize your project (just twitter at the moment)
 * assertj.org :(
-* handover
+* Expanding the team
+* Project future/handover
 
 ---
 
-## Learnings 
+## Learnings
  
 * You can't please everybody (but you should try)
 * Spend your time of valuable issues/PR
-    * it's ok to leave minor improvements/bugs behind
-* Some PR are difficult to review (too big)
+* API design is hard (try the API as a user)
+* PRs are not a great code review technique
 * Specific git flow
-* it's ok to take a break from the project
+* Be open with users when you can't do the work
