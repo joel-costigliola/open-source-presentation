@@ -179,7 +179,7 @@ to end with:
 
 ## Community
 
-* For me leading a community was a social experiment
+* Leading a community was a social experiment
 * Always be nice (Code of conduct ?)
 * Be as helpful as possible (github, SO)
 * Give credit to contributors
