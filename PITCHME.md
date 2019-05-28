@@ -152,6 +152,7 @@ to end with:
 - Using comparators
 - Recursive field by field comparison
 - Custom/domain assertions
+- modules (DB, Guava)
 
 ---
 
@@ -160,6 +161,7 @@ to end with:
 * I wanted to give back to the community
 * It feels good to help people
 * I was frustrated with hamcrest
+* Forked from Fest Assert
 
 ---
 
