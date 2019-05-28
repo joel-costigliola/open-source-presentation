@@ -1,15 +1,15 @@
-## Random thoughts as an open source project lead
+## Random thoughts as AssertJ open source project lead
 
 
 ---
 
 ## Agenda
 
-- A few word on AssertJ |
-- Kickstart |
-- Community |
-- Challenges |
-- Feedback |
+- A quick presentation of AssertJ 
+- Kickstart 
+- Community 
+- Challenges 
+- Feedback 
 
 ---
 
