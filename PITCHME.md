@@ -24,9 +24,9 @@
 ### Who uses it ?
 
 - Orion Health! 
-- The JUnit team https://twitter.com/marcphilipp/status/1108482731661553664
-- https://twitter.com/sam_brannen/status/1131825078256230400
-- Mentioned in thoughtworks tech radar: https://www.thoughtworks.com/radar/languages-and-frameworks/assertj
+- [The JUnit team](https://twitter.com/marcphilipp/status/1108482731661553664)
+- [Spring](https://twitter.com/sam_brannen/status/1131825078256230400)
+- Mentioned in [thoughtworks tech radar](https://www.thoughtworks.com/radar/languages-and-frameworks/assertj)
 
 ---
 
