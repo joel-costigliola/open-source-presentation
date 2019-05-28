@@ -179,36 +179,40 @@ to end with:
 
 ## Community
 
-* Leading a community was a social experiment
-* Always be nice (Code of conduct ?)
+* Leading a community was a social experiment for me
+* Always be nice with users
 * Be as helpful as possible (github, SO)
 * Give credit to contributors
+* Acknowledge when you are wrong
 
 ---
 
 ## Challenges 1/2
 
-* being responsive
+* Being responsive
     * acknowledge issues and PR creation
     * often lagging on PR review
-* time consuming 
+* Time consuming 
     * PR review (sometime it is faster to code it than review it)
     * documentation
+    * it's ok to take a break from the project
 
 ---
 ## Challenges 2/2
 
 * some people just want their problem solved ASAP
-    * be firm and nice (even if you are annoyed)
-* publicize your project
+    * be firm and nice (even if you are really annoyed)
+* publicize your project (just twitter at the moment)
 * assertj.org :(
+* handover
 
 ---
 
 ## Learnings 
  
 * You can't please everybody (but you should try)
-* Spend your time of valuable issues/PR 
+* Spend your time of valuable issues/PR
     * it's ok to leave minor improvements/bugs behind
 * Some PR are difficult to review (too big)
 * Specific git flow
+* it's ok to take a break from the project
