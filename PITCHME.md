@@ -14,7 +14,7 @@
 
 ## What is AssertJ?
 
-- java fluent assertions library
+- java fluent assertion library
 - provide assertions for 50+ types: String, List, ... 
 - discover assertions with IDE code completion
 
