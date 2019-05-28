@@ -102,7 +102,6 @@ assertThat(thrown)
 
 - Record all assertion errors (don't fail at the first one) 
 - Easy soft assertions with JUnitSoftAssertions rule 
-- BDD flavor with JUnitBDDSoftAssertions 
 
 ```java
 @Rule
@@ -144,7 +143,7 @@ to end with:
 
 ---
 
-### Other features we won't cover
+### Other features ...
 
 - Conditions
 - Assumptions
