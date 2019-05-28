@@ -190,9 +190,9 @@ to end with:
     * acknowledge issues and PR creation
     * often lagging in reviewing PR
 * Time consuming
-    * code review (sometime it is faster to code it than to review it)
+    * PR review
     * documentation
-* Unclear issues
+* Unclear raised issues
 
 ---
 
