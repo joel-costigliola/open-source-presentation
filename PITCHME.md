@@ -157,20 +157,25 @@ to end with:
 - Using recursive field by field comparison
 - Custom/domain assertions
 
+---
+
 ## AssertJ philosophy 
 
-- Social experiment on how to lead a community
-- AssertJ is community driven 
--- Open to suggestion
--- ask for feedback
--- lower the barrier for contribution
-- documentation is important
+* Social experiment on how to lead a community
+* AssertJ is community driven 
+    * Open to suggestion
+    * ask for feedback
+    * lower the barrier for contribution
+* documentation is important
 
+---
 
 ## Community 
 
-- Always be nice
-- Be as helpful as possible (github, SO)
+* Always be nice
+* Be as helpful as possible (github, SO)
+
+---
 
 ## Challenges 
 
@@ -179,8 +184,9 @@ to end with:
     * documentation
 * some people just want their problem solved ASAP
 
-## Learnings 
+---
 
-- git flow
-- Some PR are difficult to review
--  
+## Learnings 
+ 
+* git flow
+* Some PR are difficult to review
