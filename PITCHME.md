@@ -159,20 +159,27 @@ to end with:
 
 ---
 
-## AssertJ philosophy
+## Why AssertJ?
 
-* Social experiment on how to lead a community
+* I wanted to give back to the community
+* It feels good to help people
+* I was frustrated with hamcrest
+
+## philosophy
+
 * AssertJ is community driven
     * Open to suggestion
     * Ask for feedback
     * Lower the barrier for contribution
-* Documentation is important
-
+* Documentation is important (help people)
+    * javadoc
+    * website
 ---
 
 ## Community 
 
-* Always be nice (Code of conduct)
+* For me leading a community was a social experiment
+* Always be nice (Code of conduct ?)
 * Be as helpful as possible (github, SO)
 * Give credit to contributors
 
