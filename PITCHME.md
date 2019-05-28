@@ -146,11 +146,10 @@ to end with:
 
 - Conditions
 - Assumptions
-- AssertJ modules
+- AssertJ modules (DB, Guava)
 - Using comparators
 - Recursive field by field comparison
 - Custom/domain assertions
-- modules (DB, Guava)
 
 ---
 
