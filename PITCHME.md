@@ -6,7 +6,6 @@
 ## Agenda
 
 - A quick presentation of AssertJ 
-- Kickstart 
 - Community 
 - Challenges 
 - Feedback 
@@ -158,3 +157,8 @@ to end with:
 - Using recursive field by field comparison
 - Custom/domain assertions
 
+## Community 
+
+## Challenges 
+
+## Learnings 
