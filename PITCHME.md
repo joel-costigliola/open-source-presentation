@@ -188,7 +188,7 @@ to end with:
 
 * Being responsive
     * acknowledge issues and PR creation
-    * often lagging on code reviews
+    * often lagging in reviewing PR
 * Time consuming
     * code review (sometime it is faster to code it than to review it)
     * documentation
@@ -213,4 +213,4 @@ to end with:
 * Spend your time of valuable issues/PR
 * API design is hard (hint: try the API as a user)
 * PRs are not a great code review technique
-* Be open with users when you can't do the work
+* Be open with contributors when you can't do the work (manage expectation)
