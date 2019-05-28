@@ -19,15 +19,6 @@
 - provide assertions for 50+ types: String, List, ... 
 - discover assertions with IDE code completion
 
-```java
-List<Ring> elvesRings = asList(vilya, nenya, narya);
-
-assertThat(elvesRings).isNotEmpty()
-                      .hasSize(3)
-                      .contains(nenya, narya)
-                      .doesNotContain(oneRing);
-```
-
 ---
 
 ### Who uses it ?
@@ -109,11 +100,10 @@ assertThat(thrown)
 
 ### Soft assertions
 
-- Record all assertion errors (don't fail at the first one) |
-- Easy soft assertions with JUnitSoftAssertions rule |
-- BDD flavor with JUnitBDDSoftAssertions |
+- Record all assertion errors (don't fail at the first one) 
+- Easy soft assertions with JUnitSoftAssertions rule 
+- BDD flavor with JUnitBDDSoftAssertions 
 
-+++
 
 #### Soft assertions example
 
@@ -132,8 +122,6 @@ public void junit_soft_assertions_example() {
   // no need to call assertAll() ! :)
 }
 ```
-
-+++
 
 #### Assertions errors report
 
@@ -163,10 +151,10 @@ to end with:
 
 ### Other features we won't cover
 
-- Conditions |
-- Assumptions |
-- AssertJ modules |
-- Using comparators |
-- Using recursive field by field comparison |
-- Custom/domain assertions |
+- Conditions 
+- Assumptions
+- AssertJ modules
+- Using comparators
+- Using recursive field by field comparison
+- Custom/domain assertions
 
