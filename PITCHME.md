@@ -178,9 +178,9 @@ to end with:
 
 ## Community
 
-* I see Leading a community as a social experiment
-* Always be nice with users
-* Be as helpful as possible (github, SO)
+* I see leading a community as a social experiment
+* Always be nice
+* Be as helpful as possible (github, Sactk Overflow)
 * Give credit to contributors
 * Acknowledge when you are wrong
 
