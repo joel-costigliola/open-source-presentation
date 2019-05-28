@@ -32,13 +32,11 @@ assertThat(elvesRings).isNotEmpty()
 
 ## Who uses it ?
 
-Orion Health! 
+- Orion Health! 
+- The JUnit team https://twitter.com/marcphilipp/status/1108482731661553664
+- https://twitter.com/sam_brannen/status/1131825078256230400
 
-The JUnit team uses AssertJ:  https://twitter.com/marcphilipp/status/1108482731661553664
-
-Spring too : https://twitter.com/sam_brannen/status/1131825078256230400
-
-Menioned in thoughtworks tech radar: https://www.thoughtworks.com/radar/languages-and-frameworks/assertj Add assertj-core library to your test dependencies.
+Mentioned in thoughtworks tech radar: https://www.thoughtworks.com/radar/languages-and-frameworks/assertj
 
 +++
 
@@ -56,33 +54,12 @@ Adding AssertJ Core to a PB2 Test project:
   <publications>
   </publications>
   <dependencies>
-    <dependency conf="test->nodist" name="assertj-core" 
-                org="assertj" rev="3.12.0"/>
+    <dependency conf="test->nodist" name="assertj-core" org="assertj" rev="3.12.0"/>
     <!-- other usual test dependencies -->
     <dependency conf="test->nodist" org="bundle" name="org.junit" rev="4.12.0"/>
     <dependency conf="test->nodist" org="bundle" name="org.mockito" rev="1.9.5"/>
   </dependencies>
 </ivy-module>
-```
-
-+++
-
-### Maven or Gradle setup
-
-Maven
-
-```xml
-<dependency>
-  <groupId>org.assertj</groupId>
-  <artifactId>assertj-core</artifactId>
-  <version>3.12.0</version>
-  <scope>test</scope>
-</dependency>
-```
-
-Gradle
-```
-testCompile 'org.assertj:assertj-core:3.12.0'
 ```
 
 ---
